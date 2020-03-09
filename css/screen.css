@@ -79,6 +79,8 @@ h1 {
     margin: 0 0 24px;
     font-family: "Playfair Display", serif;
     font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h2 {
